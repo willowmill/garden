@@ -1,5 +1,6 @@
 ---
-title: Welcome to the Willow Mill Garden
+title: Welcome to Quartz
 ---
 
-This is my digital garden where i hope to index the ephemera of my life into a personal wiki. 
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
